@@ -1,4 +1,6 @@
-python_example
+Fork of python_example for testing package management of Python projects
+containing pybin11 extensions.
+
 ==============
 
 
