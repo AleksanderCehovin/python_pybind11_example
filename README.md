@@ -1,7 +1,6 @@
 python_example
 ==============
 
-README
 
 [![Gitter][gitter-badge]][gitter-link]
 
